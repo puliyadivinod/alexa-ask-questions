@@ -1,0 +1,29 @@
+{
+  "language": "python",
+  "version" : "2.7",
+  "questions": [
+      {
+        "level": 1,
+        "question": "Which method is suitable to make uppercase first letter of string",
+        "options":["upper", "capitalize", "tocapitalize", "toupper"],
+        "answer": 1,
+        "type": "audio",
+        "id": 1
+      },
+      {
+        "level": 1,
+        "question": "What exception you will get if inserting a value in list at undefined index.",
+        "options":["IndexError", "ValueError", "KeyError", "None of this"],
+        "answer": 3,
+        "type": "audio"
+      },
+      {
+        "level": 2,
+        "question": "What will be output for following snippet.",
+        "snippet": ">>>True + True\n >>>?",
+        "options":["TrueTrue", "ValueError", "two", "None of this"],
+        "answer": 2,
+        "type": "audio"
+      },
+  ]
+}
