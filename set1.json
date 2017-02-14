@@ -23,7 +23,7 @@
         "snippet": ">>>True + True\n >>>?",
         "options":["TrueTrue", "ValueError", "two", "None of this"],
         "answer": 2,
-        "type": "audio"
+        "type": "audio+video"
       },
   ]
 }
